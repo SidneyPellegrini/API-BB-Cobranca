@@ -1,0 +1,53 @@
+{
+	"numeroConvenio": 3128557,
+	"numeroCarteira": 17,
+	"numeroVariacaoCarteira": 35,
+	"codigoModalidade": 1,
+	"dataEmissao": "06.09.2022",
+	"dataVencimento": "12.12.2022",
+	"valorOriginal": 300.00,
+	"valorAbatimento": 0,
+	"quantidadeDiasProtesto": 15,
+	"indicadorAceiteTituloVencido": "s",
+	"numeroDiasLimiteRecebimento": "",
+	"codigoAceite": "A",
+	"codigoTipoTitulo": "02",
+	"descricaoTipoTitulo": "DM",
+	"indicadorPermissaoRecebimentoParcial": "S",
+	"numeroTituloBeneficiario": "0DABC-DSD-1",
+	"textoCampoUtilizacaoBeneficiario": "ORTOPLANMATRIZFOZDOIG",
+	"numeroTituloCliente": "00031285570000911474",
+	"mensagemBloquetoOcorrencia": "",
+	"desconto": {
+		"tipo": 0
+	},
+	"jurosMora": {
+		"tipo": 1,
+		"valor": 10.0,
+		"porcentagem": 0
+	},
+	"multa": {
+		"tipo": 0,
+		"dados": "",
+		"porcentagem": 0,
+		"valor": 0
+	},
+	"pagador": {
+		"tipoInscricao": 1,
+		"numeroInscricao": "97965940132",
+		"nome": "CLINICA DE REABILITACAO OTTOBO",
+		"endereco": "RUA SAO CLEMENTE N 00325",
+		"cep": "22260009",
+		"cidade": "RIODEJANEIRO",
+		"bairro": "BOTAFOGO",
+		"uf": "RJ",
+		"telefone": "2122461388"
+	},
+	"beneficiarioFinal": {
+		"tipoInscricao": 2,
+		"numeroInscricao": 2518688000121,
+		"nome": "CLINICADEREABILITA"
+	},
+	"indicadorPix": "S",
+	"textoEnderecoEmail": "teste@teste.com.br"
+}
